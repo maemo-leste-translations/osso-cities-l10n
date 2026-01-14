@@ -1,0 +1,1212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-cities 20091015124643\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2009.10.15 12:46+0300\n"
+"PO-Revision-Date: 2025-06-24 16:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-cities-l10n/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+msgid "qtn_clk_city_ab_saint_johns"
+msgstr "செயிண்ட் சான்ச்"
+
+msgid "qtn_clk_city_abu_dhabi"
+msgstr "அபுதாபி"
+
+msgid "qtn_clk_city_afga_kabul"
+msgstr "காபூல்"
+
+msgid "qtn_clk_city_albania_tirane"
+msgstr "டிரானா"
+
+msgid "qtn_clk_city_algeria_algiers"
+msgstr "அல்சியர்ச்"
+
+msgid "qtn_clk_city_andorra_la_vella"
+msgstr "அன்டோரா லா வெல்லா"
+
+msgid "qtn_clk_city_angola_luanda"
+msgstr "லுவாண்டா"
+
+msgid "qtn_clk_city_anguilla_anguilla"
+msgstr "பள்ளத்தாக்கு"
+
+msgid "qtn_clk_city_argen_buenos"
+msgstr "பியூனச் அயர்ச்"
+
+msgid "qtn_clk_city_armenia_yerevan"
+msgstr "யெரெவன்"
+
+msgid "qtn_clk_city_aruba_oranjestad"
+msgstr "ஆரன்செச்டாட்"
+
+msgid "qtn_clk_city_aus_adelaide"
+msgstr "அடிலெய்ட்"
+
+msgid "qtn_clk_city_aus_brisbane"
+msgstr "பிரிச்பேன்"
+
+msgid "qtn_clk_city_aus_canberra"
+msgstr "கான்பெர்ரா"
+
+msgid "qtn_clk_city_aus_darwin"
+msgstr "டார்வின்"
+
+msgid "qtn_clk_city_aus_eucla"
+msgstr "யூக்லா"
+
+msgid "qtn_clk_city_aus_hobart"
+msgstr "ஓபார்ட்"
+
+msgid "qtn_clk_city_aus_lord_howe_island"
+msgstr "லார்ட் ஓவ் தீவு"
+
+msgid "qtn_clk_city_aus_melbourne"
+msgstr "மெல்போர்ன்"
+
+msgid "qtn_clk_city_aus_perth"
+msgstr "பெர்த்"
+
+msgid "qtn_clk_city_aus_sydney"
+msgstr "சிட்னி"
+
+msgid "qtn_clk_city_austria_vienna"
+msgstr "வியன்னா"
+
+msgid "qtn_clk_city_azerb_baku"
+msgstr "பாகு"
+
+msgid "qtn_clk_city_azores_ponta_delgada"
+msgstr "பொன்டால்"
+
+msgid "qtn_clk_city_baham_nassau"
+msgstr "நாசாவ்"
+
+msgid "qtn_clk_city_bahrain_al_manamah"
+msgstr "மனாமா"
+
+msgid "qtn_clk_city_bangla_dhaka"
+msgstr "டாக்கா"
+
+msgid "qtn_clk_city_barbados_bridgetown"
+msgstr "பிரிட்ச்டவுன்"
+
+msgid "qtn_clk_city_belarus_minsk"
+msgstr "மின்ச்க்"
+
+msgid "qtn_clk_city_belg_brussels"
+msgstr "பிரச்சல்ச்"
+
+msgid "qtn_clk_city_belize_belmopan"
+msgstr "பெல்மோபன்"
+
+msgid "qtn_clk_city_benin_porto_novo"
+msgstr "போர்டோ-நோவோ"
+
+msgid "qtn_clk_city_bermu_hamilton"
+msgstr "ஆமில்டன்"
+
+msgid "qtn_clk_city_bf_ouagadougou"
+msgstr "ஓவாகடூகோ"
+
+msgid "qtn_clk_city_bhutan_thimphu"
+msgstr "திம்பு"
+
+msgid "qtn_clk_city_biot_chagos"
+msgstr "டியாகோ கார்சியா"
+
+msgid "qtn_clk_city_bolivia_lapaz"
+msgstr "லா பாச்"
+
+msgid "qtn_clk_city_bosnia_sarajevo"
+msgstr "சரசெவோ"
+
+msgid "qtn_clk_city_botswana_gaborone"
+msgstr "கபோரோன்"
+
+msgid "qtn_clk_city_bra_acre"
+msgstr "ஏக்கர்"
+
+msgid "qtn_clk_city_bra_aragaju"
+msgstr "அரகாசு"
+
+msgid "qtn_clk_city_bra_araguaina"
+msgstr "அராகுவெய்ன்"
+
+msgid "qtn_clk_city_bra_belem"
+msgstr "வெள்ளை"
+
+msgid "qtn_clk_city_bra_belo_horizonte"
+msgstr "பெலோ ஒரைசோன்ட்"
+
+msgid "qtn_clk_city_bra_boa_vista"
+msgstr "போவா விச்டா"
+
+msgid "qtn_clk_city_bra_brasilia"
+msgstr "பிரேசிலியா"
+
+msgid "qtn_clk_city_bra_campo_grande"
+msgstr "காம்போ கிராண்டே"
+
+msgid "qtn_clk_city_bra_cuiaba"
+msgstr "கியாபா"
+
+msgid "qtn_clk_city_bra_curitiba"
+msgstr "க்யூரிடிபா"
+
+msgid "qtn_clk_city_bra_fernand"
+msgstr "பெர்னாண்டோ டி நோரோன்ஆ"
+
+msgid "qtn_clk_city_bra_fortaleza"
+msgstr "ஃபோர்டாலெசா"
+
+msgid "qtn_clk_city_bra_goiania"
+msgstr "கோயானியா"
+
+msgid "qtn_clk_city_bra_joao_pessoa"
+msgstr "சோனோ பெசோவா"
+
+msgid "qtn_clk_city_bra_joinville"
+msgstr "சாய்ன்வில்லே"
+
+msgid "qtn_clk_city_bra_macapa"
+msgstr "மக்காபா"
+
+msgid "qtn_clk_city_bra_maceio"
+msgstr "மேசியோ"
+
+msgid "qtn_clk_city_bra_manaus"
+msgstr "மனாச்"
+
+msgid "qtn_clk_city_bra_natal"
+msgstr "நடால்"
+
+msgid "qtn_clk_city_bra_palmas"
+msgstr "பால்மாச்"
+
+msgid "qtn_clk_city_bra_porto_alegre"
+msgstr "போர்டோ அலெக்ரே"
+
+msgid "qtn_clk_city_bra_porto_velho"
+msgstr "பழைய துறைமுகம்"
+
+msgid "qtn_clk_city_bra_recife"
+msgstr "ரீஃப்"
+
+msgid "qtn_clk_city_bra_riojan"
+msgstr "ரியோ டி செனிரோ"
+
+msgid "qtn_clk_city_bra_salvador"
+msgstr "சால்வடார்"
+
+msgid "qtn_clk_city_bra_sao_luis"
+msgstr "சாவோ லூயிச்"
+
+msgid "qtn_clk_city_bra_saopaulo"
+msgstr "சா பாலோ"
+
+msgid "qtn_clk_city_bra_teresina"
+msgstr "தெரசினா"
+
+msgid "qtn_clk_city_bra_vitoria"
+msgstr "விட்டோரியா"
+
+msgid "qtn_clk_city_brunei_bandar_seri_begawar"
+msgstr "பந்தர் செரி பெகவன்"
+
+msgid "qtn_clk_city_bulg_sofia"
+msgstr "சோபியா"
+
+msgid "qtn_clk_city_burundi_bujumbura"
+msgstr "புசும்புரா"
+
+msgid "qtn_clk_city_bvi_road_town"
+msgstr "சாலை நகரம்"
+
+msgid "qtn_clk_city_cambodia_phnom_penh"
+msgstr "புனோம் பென்"
+
+msgid "qtn_clk_city_cameroon_yaounde"
+msgstr "யவுண்ட்"
+
+msgid "qtn_clk_city_canada_atikokan"
+msgstr "படத்தில்"
+
+msgid "qtn_clk_city_canada_blanc_sablon"
+msgstr "பிளாங்க்-சேப்லான்"
+
+msgid "qtn_clk_city_canada_calgar"
+msgstr "கல்கரி"
+
+msgid "qtn_clk_city_canada_cambridge_bay"
+msgstr "கேம்பிரிட்ச் விரிகுடா"
+
+msgid "qtn_clk_city_canada_charlottetown"
+msgstr "சார்லோட்டவுன்"
+
+msgid "qtn_clk_city_canada_coral_harbour"
+msgstr "பவள துறைமுகம்"
+
+msgid "qtn_clk_city_canada_cranbrook"
+msgstr "கிரான்ப்ரூக்"
+
+msgid "qtn_clk_city_canada_creighton"
+msgstr "கிரெய்டன்"
+
+msgid "qtn_clk_city_canada_dawson_creek"
+msgstr "டாசன் க்ரீக்"
+
+msgid "qtn_clk_city_canada_edmonton"
+msgstr "எட்மண்டன்"
+
+msgid "qtn_clk_city_canada_goose_bay"
+msgstr "கூச் விரிகுடா"
+
+msgid "qtn_clk_city_canada_halifax"
+msgstr "ஆலிஃபாக்ச்"
+
+msgid "qtn_clk_city_canada_iqaluit"
+msgstr "மீன்"
+
+msgid "qtn_clk_city_canada_lloydminster"
+msgstr "லாயிட்மின்ச்டர்"
+
+msgid "qtn_clk_city_canada_montreal"
+msgstr "மாண்ட்ரீல்"
+
+msgid "qtn_clk_city_canada_ottawa"
+msgstr "ஒட்டாவா"
+
+msgid "qtn_clk_city_canada_rainy_river"
+msgstr "மழை நதி"
+
+msgid "qtn_clk_city_canada_rankin_inlet"
+msgstr "ராங்கின் இன்லெட்"
+
+msgid "qtn_clk_city_canada_regina"
+msgstr "ரெசினா"
+
+msgid "qtn_clk_city_canada_stjohns"
+msgstr "செயின்ட் சான்ச்"
+
+msgid "qtn_clk_city_canada_toronto"
+msgstr "டொராண்டோ"
+
+msgid "qtn_clk_city_canada_vancouv"
+msgstr "வான்கூவர்"
+
+msgid "qtn_clk_city_canada_whitehorse"
+msgstr "வைட்ஆர்ச்"
+
+msgid "qtn_clk_city_canada_winnipeg"
+msgstr "வின்னிபெக்"
+
+msgid "qtn_clk_city_canada_yellowknife"
+msgstr "யெல்லோனிஃப்"
+
+msgid "qtn_clk_city_canary_las_palmas"
+msgstr "லாச் பால்மாச்"
+
+msgid "qtn_clk_city_capv_praia"
+msgstr "பிரியா"
+
+msgid "qtn_clk_city_car_bangui"
+msgstr "பாங்குய்"
+
+msgid "qtn_clk_city_cayman_georgetown"
+msgstr "சார்ச் பேரூர்"
+
+msgid "qtn_clk_city_chad_ndjamena"
+msgstr "N'djamena"
+
+msgid "qtn_clk_city_chile_santiago"
+msgstr "சாண்டியாகோ"
+
+msgid "qtn_clk_city_china_beijing"
+msgstr "பெய்சிங்"
+
+msgid "qtn_clk_city_christmas_island_christmas"
+msgstr "தீர்வு"
+
+msgid "qtn_clk_city_ci_kiritimati"
+msgstr "லண்டன்"
+
+msgid "qtn_clk_city_cocos_islands_cocos"
+msgstr "மேற்கு தீவு"
+
+msgid "qtn_clk_city_colomb_bogota"
+msgstr "போகோட்"
+
+msgid "qtn_clk_city_comoros_moroni"
+msgstr "மோரோனி"
+
+msgid "qtn_clk_city_cook_islands_rarotonga"
+msgstr "அருவருப்பான"
+
+msgid "qtn_clk_city_costar_sanjose"
+msgstr "சேன் சோச்"
+
+msgid "qtn_clk_city_cotedlvoire_abidjan"
+msgstr "அபிட்சன்"
+
+msgid "qtn_clk_city_croatia_zagreb"
+msgstr "சாக்ரெப்"
+
+msgid "qtn_clk_city_cuba_havanna"
+msgstr "அவானா"
+
+msgid "qtn_clk_city_curacao_willemstad"
+msgstr "வில்லெம்ச்டாட்"
+
+msgid "qtn_clk_city_cyprus_nicosia"
+msgstr "நிக்கோசியா"
+
+msgid "qtn_clk_city_czeh_prague"
+msgstr "ப்ராக்"
+
+msgid "qtn_clk_city_den_copenhag"
+msgstr "கோபன்ஏகன்"
+
+msgid "qtn_clk_city_djibouti_djibouti"
+msgstr "சிபூட்டி"
+
+msgid "qtn_clk_city_dominica_roseau"
+msgstr "ரீட்"
+
+msgid "qtn_clk_city_dominicareb_santod"
+msgstr "சாண்டோ டொமிங்கோ"
+
+msgid "qtn_clk_city_drc_kinshasa"
+msgstr "கின்சாசா"
+
+msgid "qtn_clk_city_drc_lubumbashi"
+msgstr "லுபும்பாசி"
+
+msgid "qtn_clk_city_east_timor_dili"
+msgstr "இல்லை"
+
+msgid "qtn_clk_city_easter_island_mataveri"
+msgstr "நீண்டது"
+
+msgid "qtn_clk_city_ecuad_quito"
+msgstr "குயிட்டோ"
+
+msgid "qtn_clk_city_egypt_cairo"
+msgstr "கெய்ரோ"
+
+msgid "qtn_clk_city_elsalva_sansalva"
+msgstr "சான் சால்வடார்"
+
+msgid "qtn_clk_city_eq_guinea_malabo"
+msgstr "அடடா"
+
+msgid "qtn_clk_city_eritrea_asmara"
+msgstr "அச்மாரா"
+
+msgid "qtn_clk_city_est_tallinn"
+msgstr "தாலின்"
+
+msgid "qtn_clk_city_ethiopia_addis_ababa"
+msgstr "அடிச் அபாபா"
+
+msgid "qtn_clk_city_falkland_stanley"
+msgstr "ச்டான்லி"
+
+msgid "qtn_clk_city_faroe_islands_torshavn"
+msgstr "டார்சவ்ன்"
+
+msgid "qtn_clk_city_fiji_suva"
+msgstr "சுவா"
+
+msgid "qtn_clk_city_fin_hki"
+msgstr "எல்சின்கி"
+
+msgid "qtn_clk_city_fra_paris"
+msgstr "பாரிச்"
+
+msgid "qtn_clk_city_french_guiana_cayenne"
+msgstr "கெய்ன்"
+
+msgid "qtn_clk_city_french_pol_gambier_islands"
+msgstr "காம்பியர் தீவுகள்"
+
+msgid "qtn_clk_city_gabon_libreville"
+msgstr "லிப்ரெவில்"
+
+msgid "qtn_clk_city_galapagos_islands_galapagos"
+msgstr "புவேர்ட்டோ பாக்வெரிசோ மோரேனோ"
+
+msgid "qtn_clk_city_gambia_banjul"
+msgstr "பான்சுல்"
+
+msgid "qtn_clk_city_georgia_tbilisi"
+msgstr "திபிலிசி"
+
+msgid "qtn_clk_city_germ_berlin"
+msgstr "பெர்லின்"
+
+msgid "qtn_clk_city_ghana_accra"
+msgstr "அக்ரா"
+
+msgid "qtn_clk_city_gibraltar_gibraltar"
+msgstr "கிப்ரால்டர்"
+
+msgid "qtn_clk_city_greece_athens"
+msgstr "ஏதென்ச்"
+
+msgid "qtn_clk_city_greenl_danmarkshavn"
+msgstr "டென்மார்க்கின் துறைமுகம்"
+
+msgid "qtn_clk_city_greenl_nuuk"
+msgstr "நுவுக்"
+
+msgid "qtn_clk_city_greenl_scoresbysund"
+msgstr "இட்டோக்கோர்டூர்மிட்"
+
+msgid "qtn_clk_city_greenl_thule"
+msgstr "துலே"
+
+msgid "qtn_clk_city_grenada_saint_georges"
+msgstr "செயிண்ட் சார்ச்"
+
+msgid "qtn_clk_city_guadeloupe_pointe_a_pitre"
+msgstr "பாச்"
+
+msgid "qtn_clk_city_guam_agana"
+msgstr "அ்யூகட்னா"
+
+msgid "qtn_clk_city_guatmal_guatemala"
+msgstr "குவாதமாலா"
+
+msgid "qtn_clk_city_guinea_bissau_bissau"
+msgstr "பிச்சா"
+
+msgid "qtn_clk_city_guinea_conakry"
+msgstr "கோனக்ரி"
+
+msgid "qtn_clk_city_guy_georgetown"
+msgstr "சார்ச்டவுன்"
+
+msgid "qtn_clk_city_haiti_port_au_prince"
+msgstr "போர்ட்-ஓ-பிரின்ச்"
+
+msgid "qtn_clk_city_hk_hong"
+msgstr "ஆங்காங்"
+
+msgid "qtn_clk_city_honduras_tegucigalpa"
+msgstr "டெகுசிகல்பா"
+
+msgid "qtn_clk_city_hung_budapest"
+msgstr "புடாபெச்ட்"
+
+msgid "qtn_clk_city_iceland_reykjavik"
+msgstr "ரெய்காவாக்"
+
+msgid "qtn_clk_city_india_calcut"
+msgstr "கொல்கத்தா"
+
+msgid "qtn_clk_city_india_chennai"
+msgstr "சென்னை"
+
+msgid "qtn_clk_city_india_mumbai"
+msgstr "மும்பை"
+
+msgid "qtn_clk_city_india_newdel"
+msgstr "புது தில்லி"
+
+msgid "qtn_clk_city_indon_jakarta"
+msgstr "சகார்த்தா"
+
+msgid "qtn_clk_city_indon_jayapura"
+msgstr "செயபுரா"
+
+msgid "qtn_clk_city_indon_makassar"
+msgstr "மக்காசர்"
+
+msgid "qtn_clk_city_iran_tehran"
+msgstr "தெஅ்ரான்"
+
+msgid "qtn_clk_city_iraq_baghdad"
+msgstr "பாக்தாத்"
+
+msgid "qtn_clk_city_ireland_belfast"
+msgstr "பெல்ஃபாச்ட்"
+
+msgid "qtn_clk_city_ireland_dubli"
+msgstr "டப்ளின்"
+
+msgid "qtn_clk_city_israel_jerusalem"
+msgstr "ஏருசலேம்"
+
+msgid "qtn_clk_city_israel_telaviv"
+msgstr "டெல் அவிவ்"
+
+msgid "qtn_clk_city_italy_rome"
+msgstr "ரோம்"
+
+msgid "qtn_clk_city_jamaica_kings"
+msgstr "கிங்ச்டன்"
+
+msgid "qtn_clk_city_jordan_amman"
+msgstr "அம்மன்"
+
+msgid "qtn_clk_city_jp_osaka"
+msgstr "ஒசாகா"
+
+msgid "qtn_clk_city_jp_sapporo"
+msgstr "சப்போரோ"
+
+msgid "qtn_clk_city_jp_tokyo"
+msgstr "டோக்கியோ"
+
+msgid "qtn_clk_city_kaz_aqtau"
+msgstr "அக்தாவ்"
+
+msgid "qtn_clk_city_kaz_astana"
+msgstr "அச்தானா"
+
+msgid "qtn_clk_city_kenya_nairob"
+msgstr "நைரோபி"
+
+msgid "qtn_clk_city_kerguelen_port_aux_francais"
+msgstr "போர்ட்-ஆக்ச்-ஃபிராங்காய்ச்"
+
+msgid "qtn_clk_city_kiribati_tarawa"
+msgstr "சேர்த்தல்"
+
+msgid "qtn_clk_city_kuwait_kuwait"
+msgstr "குவைத்"
+
+msgid "qtn_clk_city_kyrgyzstan_bishkek"
+msgstr "பிச்கெக்"
+
+msgid "qtn_clk_city_laos_vientiane"
+msgstr "வியஞ்சான்"
+
+msgid "qtn_clk_city_latvia_riga"
+msgstr "ரிகா"
+
+msgid "qtn_clk_city_lebanon_beirut"
+msgstr "பீர்"
+
+msgid "qtn_clk_city_lesotho_maseru"
+msgstr "மசெரு"
+
+msgid "qtn_clk_city_liber_monorov"
+msgstr "மன்ரோவியா"
+
+msgid "qtn_clk_city_libya_tripoli"
+msgstr "திரிப்போலி"
+
+msgid "qtn_clk_city_liechtenstein_vaduz"
+msgstr "வாடுச்"
+
+msgid "qtn_clk_city_lith_vilnius"
+msgstr "வில்னியச்"
+
+msgid "qtn_clk_city_luxembourg_luxembourg"
+msgstr "லக்சம்பர்க்"
+
+msgid "qtn_clk_city_macau"
+msgstr "மக்காவ்"
+
+msgid "qtn_clk_city_madagascar_antananarivo"
+msgstr "antananarivo"
+
+msgid "qtn_clk_city_madeira_funchal"
+msgstr "ஃபங்கால்"
+
+msgid "qtn_clk_city_makedo_skopje"
+msgstr "ச்கூப்"
+
+msgid "qtn_clk_city_malawi_lilongwe"
+msgstr "லிலோங்வே"
+
+msgid "qtn_clk_city_maldives_male"
+msgstr "ஆண்"
+
+msgid "qtn_clk_city_male_kualalump"
+msgstr "கோலாலம்பூர்"
+
+msgid "qtn_clk_city_mali_bamako"
+msgstr "பாமகோ"
+
+msgid "qtn_clk_city_malta_valletta"
+msgstr "வாலெட்டா"
+
+msgid "qtn_clk_city_marq_island_taiohae"
+msgstr "அறிவுரை"
+
+msgid "qtn_clk_city_mars_islands_majuro"
+msgstr "மசுரோ"
+
+msgid "qtn_clk_city_martinique_fort_de_franc"
+msgstr "ஃபோர்ட்-டி-பிரான்ச்"
+
+msgid "qtn_clk_city_mauritania_nouakchott"
+msgstr "ந ou காட்"
+
+msgid "qtn_clk_city_mauritius_port_louis"
+msgstr "போர்ட் லூயிச்"
+
+msgid "qtn_clk_city_mayotte_mamoudzou"
+msgstr "மாம oud ட்சோ"
+
+msgid "qtn_clk_city_mexico_chihua"
+msgstr "சிவாவா"
+
+msgid "qtn_clk_city_mexico_mexicoc"
+msgstr "மெக்சிகோ நகரம்"
+
+msgid "qtn_clk_city_mexico_sonora"
+msgstr "சோனோரா"
+
+msgid "qtn_clk_city_mexico_tijuana"
+msgstr "டிசுவானா"
+
+msgid "qtn_clk_city_micronesia_colonia"
+msgstr "கொலோனியா"
+
+msgid "qtn_clk_city_micronesia_ponape"
+msgstr "பாலி"
+
+msgid "qtn_clk_city_moldova_kishinev"
+msgstr "சிசினாவ்"
+
+msgid "qtn_clk_city_mona_monaco"
+msgstr "மொனாக்கோ"
+
+msgid "qtn_clk_city_mongolia_choibalsan"
+msgstr "தேர்வு செய்கிறது"
+
+msgid "qtn_clk_city_mongolia_hovd"
+msgstr "hovd"
+
+msgid "qtn_clk_city_mongolia_ulan"
+msgstr "உலான்பாதர்"
+
+msgid "qtn_clk_city_montenegro_podgorica"
+msgstr "போட்கோரிகா"
+
+msgid "qtn_clk_city_montserrat_olveston"
+msgstr "பிராடெச்கோ எச்டேட்"
+
+msgid "qtn_clk_city_moroc_casabl"
+msgstr "காசாபிளாங்கா"
+
+msgid "qtn_clk_city_moroc_rabat"
+msgstr "ரபாத்"
+
+msgid "qtn_clk_city_mozambique_maputo"
+msgstr "மாபுடோ"
+
+msgid "qtn_clk_city_myanmar_rango"
+msgstr "ரங்கூன்"
+
+msgid "qtn_clk_city_n_mariana_i_saipan"
+msgstr "சைபன்"
+
+msgid "qtn_clk_city_namibia_windhoek"
+msgstr "விண்ட்ஓக்"
+
+msgid "qtn_clk_city_nauru_makwa"
+msgstr "யாரன் மாவட்டம்"
+
+msgid "qtn_clk_city_nepal_kathma"
+msgstr "காத்மாண்டு"
+
+msgid "qtn_clk_city_neth_amsterdam"
+msgstr "ஆம்ச்டர்டாம்"
+
+msgid "qtn_clk_city_new_caledonia_noumea"
+msgstr "Nouea"
+
+msgid "qtn_clk_city_newz_auckland"
+msgstr "ஆக்லாந்து"
+
+msgid "qtn_clk_city_newz_chatham"
+msgstr "சோறு"
+
+msgid "qtn_clk_city_nicarag_managua"
+msgstr "நிர்வகித்தல்"
+
+msgid "qtn_clk_city_niger_niamey"
+msgstr "நியாமி"
+
+msgid "qtn_clk_city_nigeria_abuja"
+msgstr "அபுசா"
+
+msgid "qtn_clk_city_niue_alofi"
+msgstr "டிரம்ப்"
+
+msgid "qtn_clk_city_norfolk_kingston"
+msgstr "கிங்ச்டன்"
+
+msgid "qtn_clk_city_north_korea_pyongyang"
+msgstr "பியோங்யாங்"
+
+msgid "qtn_clk_city_norw_oslo"
+msgstr "ஒச்லோ"
+
+msgid "qtn_clk_city_nzealand_welling"
+msgstr "வெலிங்டன்"
+
+msgid "qtn_clk_city_oman_muscat"
+msgstr "மச்கட்"
+
+msgid "qtn_clk_city_pakist_islama"
+msgstr "இச்லாமாபாத்"
+
+msgid "qtn_clk_city_pakistan_karac"
+msgstr "கராச்சி"
+
+msgid "qtn_clk_city_palau_koror"
+msgstr "மெல்கியோக்"
+
+msgid "qtn_clk_city_panama_panamac"
+msgstr "பனாமா நகரம்"
+
+msgid "qtn_clk_city_paraqu_asunc"
+msgstr "அசுன்சியன்"
+
+msgid "qtn_clk_city_peru_lima"
+msgstr "லிமா"
+
+msgid "qtn_clk_city_philippines_manila"
+msgstr "மணிலா"
+
+msgid "qtn_clk_city_phoenix_islands_rawaki"
+msgstr "கேன்டன்"
+
+msgid "qtn_clk_city_pitcairn_adamstown"
+msgstr "ஆடம்ச்டவுன்"
+
+msgid "qtn_clk_city_png_portmoresby"
+msgstr "துறைமுகம் மோரெச்பி"
+
+msgid "qtn_clk_city_pol_warsaw"
+msgstr "வார்சா"
+
+msgid "qtn_clk_city_portu_lisbon"
+msgstr "லிச்பன்"
+
+msgid "qtn_clk_city_puertor_sanjuan"
+msgstr "சான் சுவான்"
+
+msgid "qtn_clk_city_qatar_doha"
+msgstr "தோஆ"
+
+msgid "qtn_clk_city_r_congo_brazzaville"
+msgstr "பிரச்சாவில்"
+
+msgid "qtn_clk_city_reunion_saint_denis"
+msgstr "செயிண்ட்-டெனிச்"
+
+msgid "qtn_clk_city_romania_buch"
+msgstr "புக்கரெச்ட்"
+
+msgid "qtn_clk_city_rus_anadyr"
+msgstr "அனடிர்"
+
+msgid "qtn_clk_city_rus_irkutsk"
+msgstr "இர்குட்ச்க்"
+
+msgid "qtn_clk_city_rus_kaliningrad"
+msgstr "கலினின்கிராட்"
+
+msgid "qtn_clk_city_rus_krasnoyarsk"
+msgstr "கிராச்னோயார்ச்க்"
+
+msgid "qtn_clk_city_rus_magadan"
+msgstr "விண்டாட்"
+
+msgid "qtn_clk_city_rus_moscow"
+msgstr "மாச்கோ"
+
+msgid "qtn_clk_city_rus_novosib"
+msgstr "நோவோசிபிர்ச்க்"
+
+msgid "qtn_clk_city_rus_samara"
+msgstr "வெடியா சிறகுக் கனி"
+
+msgid "qtn_clk_city_rus_stpeters"
+msgstr "செயின்ட் பீட்டர்ச்பர்க்"
+
+msgid "qtn_clk_city_rus_vladivost"
+msgstr "விளாடிவோச்டாக்"
+
+msgid "qtn_clk_city_rus_yakutsk"
+msgstr "யாகுட்ச்க்"
+
+msgid "qtn_clk_city_rus_yekaterinburg"
+msgstr "யாகடெரர்க்"
+
+msgid "qtn_clk_city_rwanda_kigali"
+msgstr "கிகாலி"
+
+msgid "qtn_clk_city_safric_johburg"
+msgstr "சோகன்னச்பர்க்"
+
+msgid "qtn_clk_city_safric_pretoria"
+msgstr "பிரிட்டோரியா"
+
+msgid "qtn_clk_city_samoa_apia"
+msgstr "APIA"
+
+msgid "qtn_clk_city_san_marino"
+msgstr "சான் மரீனோ"
+
+msgid "qtn_clk_city_sao_tome_principe_sao_tome"
+msgstr "சாவோ டோம்"
+
+msgid "qtn_clk_city_saudiarab_riya"
+msgstr "ரியாத்"
+
+msgid "qtn_clk_city_senegal_dakar"
+msgstr "டக்கர்"
+
+msgid "qtn_clk_city_serb_belgrade"
+msgstr "பெல்கிரேட்"
+
+msgid "qtn_clk_city_seychelles_victoria"
+msgstr "விக்டோரியா"
+
+msgid "qtn_clk_city_sierra_leone_freetown"
+msgstr "ஃப்ரீடவுன்"
+
+msgid "qtn_clk_city_singp_singapore"
+msgstr "சிங்கப்பூர்"
+
+msgid "qtn_clk_city_skorea_seoul"
+msgstr "சியோல்"
+
+msgid "qtn_clk_city_slova_bratislava"
+msgstr "பிராட்டிச்லாவா"
+
+msgid "qtn_clk_city_slove_ljubljana"
+msgstr "லுப்லசானா"
+
+msgid "qtn_clk_city_solomis_honiar"
+msgstr "தேன்கூடு"
+
+msgid "qtn_clk_city_somalia_mogadishu"
+msgstr "மொகாடிசு"
+
+msgid "qtn_clk_city_south_georgia_grytviken"
+msgstr "கிரிட்விகென்"
+
+msgid "qtn_clk_city_spain_madrid"
+msgstr "மாட்ரிட்"
+
+msgid "qtn_clk_city_srilan_colombo"
+msgstr "கொழும்பு"
+
+msgid "qtn_clk_city_st_helena_jamestown"
+msgstr "சேம்ச்டவுன்"
+
+msgid "qtn_clk_city_st_kitts_nevis_basseterre"
+msgstr "பாசெட்டரி"
+
+msgid "qtn_clk_city_st_lucia_castries"
+msgstr "காச்டிரீச்"
+
+msgid "qtn_clk_city_st_pierre_miquelon_pierre"
+msgstr "செயிண்ட்-பியர்"
+
+msgid "qtn_clk_city_st_vincent_kingstown"
+msgstr "கிங்ச்டவுன்"
+
+msgid "qtn_clk_city_sudan_khartoum"
+msgstr "கார்ட்டூம்"
+
+msgid "qtn_clk_city_suriname_paramaribo"
+msgstr "பரமரிபோ"
+
+msgid "qtn_clk_city_swaziland_mbabane"
+msgstr "எம்பபேன்"
+
+msgid "qtn_clk_city_swe_stockholm"
+msgstr "ச்டாக்ஓம்"
+
+msgid "qtn_clk_city_switz_bern"
+msgstr "பெர்ன்"
+
+msgid "qtn_clk_city_switzerland_zurich"
+msgstr "சூரிச்"
+
+msgid "qtn_clk_city_syria_damascus"
+msgstr "டமாச்கச்"
+
+msgid "qtn_clk_city_tahiti_papeete"
+msgstr "பாப்பீட்"
+
+msgid "qtn_clk_city_taiw_taipei"
+msgstr "தைபே"
+
+msgid "qtn_clk_city_tajikistan_dushanbe"
+msgstr "துசன்பே"
+
+msgid "qtn_clk_city_tanzania_dar_es_salaam"
+msgstr "டார் எச் சலாம்"
+
+msgid "qtn_clk_city_thai_bangkok"
+msgstr "பாங்காக்"
+
+msgid "qtn_clk_city_togo_lome"
+msgstr "லோமே"
+
+msgid "qtn_clk_city_tokelau_fakaofo"
+msgstr "வியப்பு"
+
+msgid "qtn_clk_city_tonga_nuku"
+msgstr "நுகுலாவ்"
+
+msgid "qtn_clk_city_trinidad_portofspain"
+msgstr "போர்ட் ஆஃப் ச்பெயின்"
+
+msgid "qtn_clk_city_tunisia_tunis"
+msgstr "துனிச்"
+
+msgid "qtn_clk_city_turk_ankara"
+msgstr "அங்காரா"
+
+msgid "qtn_clk_city_turk_istanbul"
+msgstr "இச்தான்புல்"
+
+msgid "qtn_clk_city_turkmenistan_ashgabat"
+msgstr "அண்டர்ம்"
+
+msgid "qtn_clk_city_turks_caicos_kingston"
+msgstr "காக்பர்ன் பேரூர்"
+
+msgid "qtn_clk_city_tuvalu_funafuti"
+msgstr "ஃபனாபுட்டி"
+
+msgid "qtn_clk_city_uganda_kampala"
+msgstr "கம்பாலா"
+
+msgid "qtn_clk_city_uk_cardiff"
+msgstr "கார்டிஃப்"
+
+msgid "qtn_clk_city_uk_edingbu"
+msgstr "எடின்பர்க்"
+
+msgid "qtn_clk_city_uk_london"
+msgstr "லண்டன்"
+
+msgid "qtn_clk_city_ukraine_kiev"
+msgstr "கியேவ்"
+
+msgid "qtn_clk_city_urugua_montev"
+msgstr "மான்டிவீடியோ"
+
+msgid "qtn_clk_city_usa_adak"
+msgstr "அடக், அலாச்கா"
+
+msgid "qtn_clk_city_usa_albuquer"
+msgstr "அல்புகெர்கி, நியூ மெக்சிகோ"
+
+msgid "qtn_clk_city_usa_atlanta"
+msgstr "அட்லாண்டா, சார்சியா"
+
+msgid "qtn_clk_city_usa_augusta"
+msgstr "அகச்டா, மைனே"
+
+msgid "qtn_clk_city_usa_baltimore"
+msgstr "பால்டிமோர், மேரிலாந்து"
+
+msgid "qtn_clk_city_usa_billings"
+msgstr "பில்லிங்ச், மொன்டானா"
+
+msgid "qtn_clk_city_usa_birmingham"
+msgstr "பர்மிங்காம், அலபாமா"
+
+msgid "qtn_clk_city_usa_bismarck"
+msgstr "பிச்மார்க், வடக்கு டகோட்டா"
+
+msgid "qtn_clk_city_usa_boise"
+msgstr "போயச், இடாஓ"
+
+msgid "qtn_clk_city_usa_boston"
+msgstr "பாச்டன், மாசசூசெட்ச்"
+
+msgid "qtn_clk_city_usa_charleston"
+msgstr "சார்லச்டன், மேற்கு வர்சீனியா"
+
+msgid "qtn_clk_city_usa_charlotte"
+msgstr "சார்லோட், வட கரோலினா"
+
+msgid "qtn_clk_city_usa_charlotte_amalie"
+msgstr "சார்லோட் அமாலி, ஒன்றுபட்டது ச்டேட்ச் விர்சின் தீவுகள்"
+
+msgid "qtn_clk_city_usa_cheyenne"
+msgstr "செயென், வயோமிங்"
+
+msgid "qtn_clk_city_usa_chicago"
+msgstr "சிகாகோ, இல்லினாய்ச்"
+
+msgid "qtn_clk_city_usa_columbia"
+msgstr "கொலம்பியா, தென் கரோலினா"
+
+msgid "qtn_clk_city_usa_columbus"
+msgstr "கொலம்பச், ஓஇயோ"
+
+msgid "qtn_clk_city_usa_concord"
+msgstr "கான்கார்ட், நியூ ஆம்ப்சயர்"
+
+msgid "qtn_clk_city_usa_dallas"
+msgstr "டல்லாச், டெக்சாச்"
+
+msgid "qtn_clk_city_usa_denver"
+msgstr "டென்வர், கொலராடோ"
+
+msgid "qtn_clk_city_usa_desmoines"
+msgstr "துறவிகள், அயோவா"
+
+msgid "qtn_clk_city_usa_detroit"
+msgstr "டெட்ராய்ட், மிச்சிகன்"
+
+msgid "qtn_clk_city_usa_dover"
+msgstr "டோவர், டெலாவேர்"
+
+msgid "qtn_clk_city_usa_evansville"
+msgstr "எவன்ச்வில்லே, இந்தியானா"
+
+msgid "qtn_clk_city_usa_gary"
+msgstr "கேரி, இந்தியானா"
+
+msgid "qtn_clk_city_usa_guam"
+msgstr "குவாம்"
+
+msgid "qtn_clk_city_usa_hatford"
+msgstr "ஆர்ட்ஃபோர்ட், கனெக்டிகட்"
+
+msgid "qtn_clk_city_usa_hawaii"
+msgstr "ஒனலுலு, அவாய்"
+
+msgid "qtn_clk_city_usa_indiana"
+msgstr "இண்டியானாபோலிச், இந்தியானா"
+
+msgid "qtn_clk_city_usa_jackson"
+msgstr "சாக்சன், மிசிசிப்பி"
+
+msgid "qtn_clk_city_usa_juneau"
+msgstr "சூனாவ், அலாச்கா"
+
+msgid "qtn_clk_city_usa_lasvega"
+msgstr "லாச் வேகாச், நெவாடா"
+
+msgid "qtn_clk_city_usa_losange"
+msgstr "லாச் ஏஞ்சல்ச், கலிபோர்னியா"
+
+msgid "qtn_clk_city_usa_louisville"
+msgstr "லூயிச்வில்லி, கென்டக்கி"
+
+msgid "qtn_clk_city_usa_memphis"
+msgstr "மெம்பிச், டென்னசி"
+
+msgid "qtn_clk_city_usa_miami"
+msgstr "மியாமி, புளோரிடா"
+
+msgid "qtn_clk_city_usa_milwaukee"
+msgstr "மில்வாக்கி, விச்கான்சின்"
+
+msgid "qtn_clk_city_usa_minneap"
+msgstr "மினியாபோலிச், மினசோட்டா"
+
+msgid "qtn_clk_city_usa_montpelier"
+msgstr "மாண்ட்பெலியர், வெர்மான்ட்"
+
+msgid "qtn_clk_city_usa_neworlea"
+msgstr "நியூ ஆர்லியன்ச், லூசியானா"
+
+msgid "qtn_clk_city_usa_ny"
+msgstr "நியூயார்க் நகரம், நியூயார்க்"
+
+msgid "qtn_clk_city_usa_oklahoma"
+msgstr "ஓக்லஓமா நகரம், ஓலோலாமா"
+
+msgid "qtn_clk_city_usa_omaha"
+msgstr "ஒமாஆ, நெப்ராச்கா"
+
+msgid "qtn_clk_city_usa_pago_pago"
+msgstr "கட்டண கட்டணம், அமெரிக்கன் சமோவா"
+
+msgid "qtn_clk_city_usa_pensacola"
+msgstr "சிந்தனை, பூக்கும்"
+
+msgid "qtn_clk_city_usa_philadelp"
+msgstr "பிலடெல்பியா, பென்சில்வேனியா"
+
+msgid "qtn_clk_city_usa_phoenix"
+msgstr "பீனிக்ச், அரிசோனா"
+
+msgid "qtn_clk_city_usa_portland"
+msgstr "போர்ட்லேண்ட், ஓரிகான்"
+
+msgid "qtn_clk_city_usa_providence"
+msgstr "பிராவிடன்ச், ரோட் தீவு"
+
+msgid "qtn_clk_city_usa_richmond"
+msgstr "ரிச்மண்ட், வர்சீனியா"
+
+msgid "qtn_clk_city_usa_saipan"
+msgstr "சைபன், வடக்கு மரியானா தீவுகள்"
+
+msgid "qtn_clk_city_usa_saltlakec"
+msgstr "சால்ட் லேக் சிட்டி, உட்டா"
+
+msgid "qtn_clk_city_usa_sanfranci"
+msgstr "சான் பிரான்சிச்கோ, கலிபோர்னியா"
+
+msgid "qtn_clk_city_usa_seattle"
+msgstr "சியாட்டில், வாசிங்டன்"
+
+msgid "qtn_clk_city_usa_sioux_falls"
+msgstr "சியோக்ச் நீர்வீழ்ச்சி, தெற்கு டகோட்டா"
+
+msgid "qtn_clk_city_usa_stluis"
+msgstr "செயின்ட் லூயிச், மிச ou ரி"
+
+msgid "qtn_clk_city_usa_washington"
+msgstr "வாசிங்டன், கொலம்பியா மாவட்டம்"
+
+msgid "qtn_clk_city_usa_wichita"
+msgstr "விசிட்டா, கன்சாச்"
+
+msgid "qtn_clk_city_uzbe_tashkent"
+msgstr "தாச்கென்ட்"
+
+msgid "qtn_clk_city_vanuatu_port_vila"
+msgstr "துறைமுக ஓய்வு"
+
+msgid "qtn_clk_city_vatican_vatican_city"
+msgstr "வத்திக்கான் நகரம்"
+
+msgid "qtn_clk_city_vene_caracas"
+msgstr "கராகாச்"
+
+msgid "qtn_clk_city_viet_hanoi"
+msgstr "அனோய்"
+
+msgid "qtn_clk_city_wallis_futuna_wallis"
+msgstr "மாதா-ஊதியம்"
+
+msgid "qtn_clk_city_west_sahara_el_aaiun"
+msgstr "ஒளிரும்"
+
+msgid "qtn_clk_city_yemen_sana"
+msgstr "சனா"
+
+msgid "qtn_clk_city_zambia_lusaka"
+msgstr "லுசாக்கா"
+
+msgid "qtn_clk_city_zimb_harare"
+msgstr "உராரே"
